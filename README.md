@@ -83,8 +83,11 @@ Se utiliza el endpoint: https://www.themealdb.com/api/json/v1/1/search.php?f=c p
 
 ### Pantalla de Login
 ![Login](assets/screenshots/login1.png)
-
 ![Login](assets/screenshots/login2.png)
+
+### Pantalla de Registro
+![Registro](assets/screenshots/regis1.png)
+![Registro](assets/screenshots/regis2.png)
 
 ### Pantalla de Recetas
 ![Recetas](assets/screenshots/rece1.png)
@@ -93,16 +96,8 @@ Se utiliza el endpoint: https://www.themealdb.com/api/json/v1/1/search.php?f=c p
 ### Favoritos
 ![Favoritos](assets/screenshots/fav.png)
 
-
-Pantalla de Splash
-
-Pantalla de Login / Registro
-
-Pantalla de Recetas en modo Grid
-
-Lista de Favoritos
-
-Detalle de una receta
+### Descripcion
+![Descripcion](assets/screenshots/des.png)
 
 # Funcionalidades futuras
 
@@ -117,7 +112,6 @@ Implementar autenticación real con Firebase.
 Autor
 
 Juan Goyeneche – Estudiante de Ingeniería Multimedia
-[Correo de contacto: juangoyen24@gmail.com
-]
-[GitHub: https://github.com/usuario
-]
+[Correo de contacto: juangoyen24@gmail.com]
+[GitHub: https://github.com/Juangoyen24]
+
