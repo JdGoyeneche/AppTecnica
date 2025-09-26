@@ -75,8 +75,23 @@ TheMealDB (https://www.themealdb.com/api.php)
 
 Se utiliza el endpoint: https://www.themealdb.com/api/json/v1/1/search.php?f=c para obtener recetas.
 
-# Capturas de pantalla
+## Capturas de pantalla
 
+### Pantalla de splash
+
+![splash](assets/screenshots/splash.png)
+
+### Pantalla de Login
+![Login](assets/screenshots/login1.png)
+
+![Login](assets/screenshots/login2.png)
+
+### Pantalla de Recetas
+![Recetas](assets/screenshots/rece1.png)
+![Recetas](assets/screenshots/rece2.png)
+
+### Favoritos
+![Favoritos](assets/screenshots/fav.png)
 
 
 Pantalla de Splash
